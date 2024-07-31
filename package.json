@@ -41,6 +41,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "ajv": "^8.17.1",
     "chalk": "^4.0.0",
     "contentful-import": "^8.5.21",
     "gatsby-provision-contentful": "^0.0.5",
